@@ -1,0 +1,10 @@
+Rex,dachshund,1,5
+Rocky,shih tzu,2,50
+Charlie,boxer,7,15
+Charlie,husky,6,15
+Charlie,golden retriever,9,50
+Rex,labrador,8,50
+Rocky,labrador,8,45
+Charlie,dachshund,7,40
+Charlie,husky,9,5
+hahahaha,skdasd,324234,234342
